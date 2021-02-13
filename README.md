@@ -1,14 +1,15 @@
-# Paladar Negro
+# Paladar Negro Backend
 
-Este proyecto expone el site de un restaurant en dónde podrás realizar reservas para ir a cenar sólo, con tu familia o amigos.
-
-También podrás realizar eventos sociales con sus mejores platos y atención!
+Api rest que expone servicios rest hecha en NodeJS.
 
 ---
 
 ## Configurar entorno backend
 
-Descomprimir el archivo 
+1. Correr en la consola el comando `npm install`
+
+## Ejecutar aplicación
+Para levantar la aplicación, ejecutar el comando `npm start`
 
 ---
 
