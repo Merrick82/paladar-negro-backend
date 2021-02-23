@@ -1,0 +1,22 @@
+[
+    {
+        "filter": "*",
+        "style": "filter-active",
+        "title": "Todos"
+    },
+    {
+        "filter": ".filter-starters",
+        "style": "",
+        "title": "Entradas"
+    },
+    {
+        "filter": ".filter-salads",
+        "style": "",
+        "title": "Ensaladas"
+    },
+    {
+        "filter": ".filter-specialty",
+        "style": "",
+        "title": "Especialidades"
+    }
+]

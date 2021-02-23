@@ -1,0 +1,17 @@
+[
+    {
+        "photo": "chefs-1.jpg",
+        "name": "Walter White",
+        "job": "Master Chef"
+    },
+    {
+        "photo": "chefs-2.jpg",
+        "name": "Sarah Jhonson",
+        "job": "Patissier"
+    },
+    {
+        "photo": "chefs-3.jpg",
+        "name": "William Anderson",
+        "job": "Cook"
+    }
+]
