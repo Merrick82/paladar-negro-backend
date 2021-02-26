@@ -1,6 +1,6 @@
 # Paladar Negro Backend
 
-Api rest que expone servicios rest hecha en NodeJS.
+Api que expone servicios rest hecha en NodeJS. Utiliza firestore para obtener data a renderizar en el frontend asi como tambien todo el flujo de alta y consulta de reservas.
 
 ---
 
